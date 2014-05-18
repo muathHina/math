@@ -1,4 +1,4 @@
 mathematics
 ===========
 
-Basic and advance mathematical Library
+Basic and Advance Mathematics Library (BAML)
